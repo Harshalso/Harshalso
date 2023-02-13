@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Sonawane</h1>
 <h3 align="center">A passionate GIS analyst</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/124920585/218528786-2925ae9f-1ae5-4cb8-846e-274c76f370bb.png)">
+<img align="right" alt="coding" width="400" src="(https://user-images.githubusercontent.com/124920585/218528786-2925ae9f-1ae5-4cb8-846e-274c76f370bb.png)">
 
 
 
