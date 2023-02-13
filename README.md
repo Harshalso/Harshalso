@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/Harshalso" alt="Harshal Sonawane" /></p>
 
-<p><img align="center" src="https://github.com/Harshalso" alt="Harshal Sonawane" /></p>
