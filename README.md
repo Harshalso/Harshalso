@@ -152,7 +152,7 @@ Hi 👋, I'm Harshal Sonawane
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshalso&theme=onedark&no-frame=true&row=2&column=4" />
+  <img src="https://raw.githubusercontent.com/Harshalso/Harshalso/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
