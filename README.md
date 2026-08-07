@@ -152,9 +152,7 @@ Hi 👋, I'm Harshal Sonawane
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harshalso&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshalso&theme=onedark&no-frame=true&row=2&column=4" />
 </p>
 
 ---
